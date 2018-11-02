@@ -4,7 +4,7 @@ A template where one can switch between little image previews that are scattered
 
 ![Animated Grids Layout](https://tympanus.net/codrops/wp-content/uploads/2018/10/Animated-Grids-Layout_Featured.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=36043)
+[Article on Codrops](https://tympanus.net/codrops/?p=36291)
 
 [Demo](http://tympanus.net/Development/AnimatedGridsLayout/)
 
