@@ -6,7 +6,7 @@ A template where one can switch between little image previews that are scattered
 
 [Article on Codrops](https://tympanus.net/codrops/?p=36291)
 
-[Demo](http://tympanus.net/Development/AnimatedGridsLayout/)
+[Demo](https://tympanus.net/Development/AnimatedGridPreviews/)
 
 ## Credits
 
